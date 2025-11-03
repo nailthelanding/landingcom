@@ -1,0 +1,9 @@
+# Copy this file to terraform.tfvars and fill in your values
+
+domain_name = "landing.com"
+
+# Optional: Override defaults if needed
+# aws_region              = "us-east-1"
+# terraform_state_bucket  = "terraform-state-landing"
+# terraform_lock_table    = "terraform-locks"
+# github_actions_user     = "github-actions-deployer"
